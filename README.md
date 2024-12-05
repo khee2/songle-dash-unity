@@ -1,4 +1,4 @@
-# ❄️ Songle Dash Unity
+# ❄️ Songle Dash Game
 송글 캐릭터가 장애물을 피하며 점프하는 간단하고 중독성 있는 게임입니다.
 
 | <img src="https://github.com/user-attachments/assets/58f51dc2-79be-407c-a0dd-907f0ec17093" width="100"> |
