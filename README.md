@@ -39,8 +39,8 @@ https://github.com/user-attachments/assets/34afa92e-1ef2-4165-bd46-63dc39c96b37
 
 | 자료 이름          | 링크                                                                                 |
 |-------------------|-------------------------------------------------------------------------------------|
-| 실습 과정 정리     | [노션 페이지](https://sturdy-ulna-b30.notion.site/unity-14d6aa54320b80308a7ed5a21cf457e7?pvs=73) |
-| 솔룩스 강의 자료 | [[6차 세미나] unity로 만드는 날아라 송글이](https://www.notion.so/unity-14d6aa54320b801598eceb49f7d72035)                        |
+| 실습 과정 정리     | [노션 페이지](https://sturdy-ulna-b30.notion.site/unity-14d6aa54320b80308a7ed5a21cf457e7?pvs=74) |
+| 솔룩스 강의 자료 | [6차 세미나 - unity로 만드는 날아라 송글이](https://solux.goorm.io/learn/lecture/53426/6%EC%B0%A8-%EC%84%B8%EB%AF%B8%EB%82%98-unity%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%82%A0%EC%95%84%EB%9D%BC-%EC%86%A1%EA%B8%80%EC%9D%B4) |
 
 ---
 
